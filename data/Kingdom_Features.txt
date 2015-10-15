@@ -1,0 +1,24 @@
+Kingdom Age (Centuries):
+Population Density (km2):
+Kingdom Area (km2):
+Kingdom Width (km):
+Distance Across in Hours:
+Number of Regions:
+Width of a Region (km):
+Area of a Region (km2):
+Percentage of Arable Land:
+Total Amount of Arable Land:
+Total Amount of Wilderness:
+Total Population:
+Number of Isolated Residents:
+Number of Village People:
+Number of Town-folk:
+Number of City-folk:
+Number of Large City-folk:
+Number of Villages:
+Number of Towns:
+Number of Cities:
+Number of Large Cities:
+Number of Castles:
+Number of Active Castles:
+Number of Abandoned Castles:
